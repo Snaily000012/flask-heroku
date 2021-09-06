@@ -23,7 +23,7 @@ data = [
 
 @app.route('/')
 def hello():
-    return "Hello Flask-Herok"
+    return "Hello นฤดี สารวุฒิ เลขที่19 ม.4/9"
      
 @app.route('/api', methods=['GET'])
 def get_api():
